@@ -1,0 +1,6 @@
+code,description
+1,Work Permit
+2,International Passport
+3,Identification ID
+4,Social Security
+5,Residence Permit

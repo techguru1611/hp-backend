@@ -1,0 +1,23 @@
+code,description
+1,Business income
+2,Loans
+3,Interest / dividend income
+4,Sales of assets
+5,Issue of share
+6,Issue of bond/debenture
+7,Tax refund
+8,Venture capital
+9,Claims/Compensation
+10,Advance from director/shareholder
+11,Salary / Saving
+12,Financial supports from Spouse
+13,Property investment
+14,Gambling
+15,Shares investment
+16,Donation/Gift
+17,Financial supports from parents
+18,Freelance income
+19,Financial supports from children
+20,Retirement fund
+21,Rental/leasing income
+22,Data is not required to be collected by local jurisdiction

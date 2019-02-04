@@ -1,0 +1,38 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AddTotalCommissionAmountInUserTransactionsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        if (Schema::hasTable('user_transactions')) {
+            Schema::table('user_transactions', function (Blueprint $table) {
+                $table->decimal('total_commission_amount', 15, 2)->after('net_amount');
+            });
+        }
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        if (Schema::hasTable('user_transactions')) {
+            Schema::table('user_transactions', function (Blueprint $table) {
+                $table->dropColumn([
+                    'total_commission_amount',
+                ]);
+            });
+        }
+    }
+}

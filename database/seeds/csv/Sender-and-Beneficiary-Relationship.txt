@@ -1,0 +1,21 @@
+code,description
+1,Spouse
+2,Children
+3,Parent
+4,Sibling / brother/sister
+5,Relative/uncle/auntie/cousin
+6,Self
+7,Ex-spouse
+8,Friend
+9,Business partner
+10,Customer
+11,Employee
+12,Branch/Representative office
+13,Subsidiary company
+14,Holding company
+15,Supplier
+16,Creditor
+17,Debtor
+18,Franchisee/Franchisor
+19,Non Related
+20,Data is not required to be collected by local jurisdiction

@@ -1,0 +1,110 @@
+code,description
+00000,Food and Live Animals
+01000,Beverages and Tobacco
+02000,Crude Materials, Inedible except Fuels
+03000,Mineral Fuels, Lubricants and Related Materials
+04000,Animals and Vegetable Oils, Fats and Waxes
+05000,Chemicals and Related Products, n.c.e.
+06000,Manufactured Goods
+07000,Machinery, Non-Customised Packaged Software and Transport Equipment
+07100,Power Lines, Pipelines and Undersea Communication Cables
+08000,Miscellaneous Manufactured Articles
+09000,Miscellaneous Transactions and Commodities n.c.e.
+09700,Nonmonetary Gold
+10010,Goods for Processing/Manufacturing Services
+11100,Freight
+11200,Passenger Fare
+11999,Other Supporting and Auxiliary Transport Services
+12200,Charter
+12300,Operational Lease
+12500,Maintenance and Repair Services n.i.e.
+13110,Goods and Services by Travellers
+13210,Goods and Services
+13220,Goods and Services by Short Term Workers
+13300,Pilgrimage/Religious-Related
+13400,Health-Related
+13500,Education-Related
+14100,Investment Income
+14259,Interest
+14310,Wages and Salaries in Cash
+14320,Wages and Salaries in Kind/Benefits Attributable to Employees
+14330,Employer's Social Contributions
+14410,Taxes on Products and Productions
+14420,Subsidiaries on Products and Productions
+14430,Rental on Natural Resources
+15000,Government Goods and Services Transactions N.I.E
+16100,Telecommunications Services
+16210,Construction and Installation Services in Malaysia
+16220,Construction and Installation Services Abroad
+16311,Premium Paid/Received on High Risk Insurance Relating to Fire, Marine, Aviation etc.
+16312,Premium Paid/Received on Other General Insurance
+16313,Premium Paid/Received on Life Insurance
+16314,Premium Paid/Received on Reinsurance
+16315,Premium Paid/Received on Insurance on Goods in the Process of Being Exported/Imported
+16321,Claim Settlements on High Risk Insurance Relating to Fire, Marine, Aviation etc.
+16322,Claim Settlements on Other General Insurance
+16323,Claim Paid/Received on Life Insurance
+16324,Claim Paid/Received on Reinsurance
+16325,Claim Paid/Received on Insurance on Goods
+16332,Auxillary Insurance Services
+16410,Explicitly-Charged Financial Services
+16420,Explicit Margins on Buying and Selling of Financial Instruments
+16430,Explicitly-Charged Asset Management Fees
+16440,Financial Intermediation Service Charges Indirectly Measured (FISIM)
+16510,Computer Services
+16520,Information Services
+16610,Royalties for Usage of Intellectual Proprerty
+16620,License Fees to Reproduce and Distribute Intellectual Property
+16710,Merchanting Trade
+16720,Sharing of Administrative Expenses
+16730,Research and Development Services
+16740,Architectural, Engineering and Other Technical Services
+16750,Agricultural, Mining and On-Site Processing
+16760,Advertising, Market Research, and Public Opinion Polling Services
+16771,Legal Services
+16772,Accounting Services
+16773,Management Consulting Services
+16791,Trade-Related Services
+16792,Water Treatment Services
+16810,Audio-Visual and Artistic Related Services
+16820,Health Services
+16830,Education Services
+16840,Heritage and Recreational Services
+16850,Other Personal Services
+16999,Other Business Services Not Classified Elsewhere
+21199,Current Transfers (Government Sector)
+21210,Grants and Gifts
+21220,Worker's Remittances / family maintenance
+21230,Legacies, Compensations and Prizes
+21241,Taxes on Income, Wealth and Other Taxable Assets (Private Sector)
+21242,Fines and Penalties (Private Sector)
+21243,Social Contributions and Benefits (Private Sector)
+21244,Social Benefits (Private Sector)
+21299,Other Current Transfers Not Classified Elsewhere (Private Sector)
+22100,Government Sector
+22200,Private Sector (Financial Corporations, Nonfinancial Corporations, Households and NPISHs)
+31110,Term Loans (Long-Term)
+31120,Term Loans (Short-Term)
+31210,Supplier's Credit (Long-Term)
+31220,Supplier's Credit (Short-Term)
+31310,Non-Participating Redeemable Preference Shares (RPS)
+31410,Financial Lease
+31510,Revolving Credit/Overdraft Facilities
+31910,Other Loan Facilities (Long-Term)
+31920,Other Loan Facilities (Short-Term)
+32000,Investment Fund Shares
+33000,Employee Stock Options (ESOS)
+34000,Subscriptions/Contributions to/Reimbursement form International Organisations
+35000,Equity Capital
+36100,Corporate Stocks and Shares
+36200,Bonds and Notes
+36300,Money Market Instruments
+36400,Government Securities
+37000,Financial Derivatives
+39110,Real Estate in Malaysia
+39120,Real Estate Abroad
+39130,Real Estate in Host Country
+39210,Deposits with/from Financial Institutions Abroad
+39220,Deposits with/from Offshore Financial Institutions in Labuan
+39230,Deposits with/from Financial Institutions in Malaysia
+99999,Data is not required to be collected according to local jurisdiction.

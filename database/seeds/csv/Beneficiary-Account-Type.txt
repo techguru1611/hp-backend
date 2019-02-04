@@ -1,0 +1,9 @@
+Code,Description
+1,Banks
+2,E-Wallet Operators
+3,Mobile Operators (Remittance)
+4,Prepaid card
+5,Cash Pickup
+6,Bill Payment
+7,Banks-SKN (Non Real-Time)(Indonesia ONLY)
+9,Home delivery (Only available for Vietnam)
